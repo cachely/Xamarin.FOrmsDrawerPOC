@@ -1,0 +1,16 @@
+D:\repos\DrawerPOC\DrawerPOC\bin\Debug\netstandard2.0\DrawerPOC.deps.json
+D:\repos\DrawerPOC\DrawerPOC\bin\Debug\netstandard2.0\DrawerPOC.dll
+D:\repos\DrawerPOC\DrawerPOC\bin\Debug\netstandard2.0\DrawerPOC.pdb
+D:\repos\DrawerPOC\DrawerPOC\obj\Debug\netstandard2.0\DrawerPOC.csproj.AssemblyReference.cache
+D:\repos\DrawerPOC\DrawerPOC\obj\Debug\netstandard2.0\DrawerPOC.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\DrawerPOC\DrawerPOC\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\repos\DrawerPOC\DrawerPOC\obj\Debug\netstandard2.0\BottomDrawerView.xaml.g.cs
+D:\repos\DrawerPOC\DrawerPOC\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\repos\DrawerPOC\DrawerPOC\obj\Debug\netstandard2.0\DrawerPOC.AssemblyInfoInputs.cache
+D:\repos\DrawerPOC\DrawerPOC\obj\Debug\netstandard2.0\DrawerPOC.AssemblyInfo.cs
+D:\repos\DrawerPOC\DrawerPOC\obj\Debug\netstandard2.0\DrawerPOC.csproj.CoreCompileInputs.cache
+D:\repos\DrawerPOC\DrawerPOC\obj\Debug\netstandard2.0\XamlC.stamp
+D:\repos\DrawerPOC\DrawerPOC\obj\Debug\netstandard2.0\DrawerPOC.dll
+D:\repos\DrawerPOC\DrawerPOC\obj\Debug\netstandard2.0\refint\DrawerPOC.dll
+D:\repos\DrawerPOC\DrawerPOC\obj\Debug\netstandard2.0\DrawerPOC.pdb
+D:\repos\DrawerPOC\DrawerPOC\obj\Debug\netstandard2.0\ref\DrawerPOC.dll

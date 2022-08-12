@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DrawerPOC.BottomDrawerView">
+  <ContentView.Content>
+        <StackLayout
+            VerticalOptions="End">
+            <!--Icon by <a href="https://freeicons.io/profile/3">icon king1</a> on <a href="https://freeicons.io">freeicons.io</a>-->
+            <ImageButton x:Name="drawerIcon"
+                         Source="arrow.png" 
+                         BackgroundColor="White" 
+                         BorderColor="Black" 
+                         HorizontalOptions="Center" 
+                         Command="{Binding ToggleDrawerCommand}"/>
+            <Line BackgroundColor="Black" HorizontalOptions="Fill" />
+            <StackLayout Orientation="Horizontal"
+                         BackgroundColor="Blue"
+                         HorizontalOptions="FillAndExpand">
+                <Button Text="Back" HorizontalOptions="FillAndExpand"/>
+                <Button Text="Continue" HorizontalOptions="FillAndExpand"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentView.Content>
+</ContentView>

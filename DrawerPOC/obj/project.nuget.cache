@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "g+7F0/aaFa4dlxH3xLr9BJX8T3LQ8E9sRWUoNlBt3y4CRZyCZ5DnamnhvVQwOx/SdUUKRO/NSevvC0UzGethNA==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\DrawerPOC\\DrawerPOC\\DrawerPOC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hbv2mqz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hbv2mqz\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\hbv2mqz\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\hbv2mqz\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\hbv2mqz\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
